@@ -1,0 +1,12 @@
+{
+  "repository": "meeting-pack",
+  "title": "Meeting Pack",
+  "description": "Локальный генератор повесток, решений, задач и Markdown-пакета для встреч.",
+  "topics": [
+    "meetings",
+    "productivity",
+    "markdown",
+    "project-management",
+    "javascript"
+  ]
+}
